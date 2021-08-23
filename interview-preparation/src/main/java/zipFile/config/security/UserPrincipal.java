@@ -13,7 +13,8 @@ import zipFile.dto.User;
 
 public class UserPrincipal implements UserDetails{
     
-    private User user;
+	private static final long serialVersionUID = 8251112822072657930L;
+	private User user;
 
     public UserPrincipal(User user){
         this.user = user;

@@ -24,3 +24,9 @@ hs_err_pid*
 interview-preparation/.classpath
 *.prefs
 interview-preparation/.project
+*.jar
+learning/Basics/spring-in-5-steps/.mvn/wrapper/maven-wrapper.properties
+learning/Basics/spring-in-5-steps/.mvn/wrapper/maven-wrapper.jar
+learning/Basics/spring-in-5-steps/.mvn/wrapper/MavenWrapperDownloader.java
+learning/Basics/spring-in-5-steps/mvnw
+learning/Basics/spring-in-5-steps/mvnw.cmd
