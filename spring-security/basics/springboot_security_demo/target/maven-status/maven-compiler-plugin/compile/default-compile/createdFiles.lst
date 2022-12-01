@@ -1,0 +1,3 @@
+application/SpringBootSecurityApplication.class
+application/security/configuration/SecurityConfiguration.class
+application/controller/HomeResource.class
